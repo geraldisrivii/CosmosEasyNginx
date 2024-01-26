@@ -14,9 +14,9 @@
 
     </div>
     <div class="invisible-site-nav">
-        <li class="invisible-site-nav__item"><a href="#" class="invisible-site-nav__link">О НАС</a></li>
-        <li class="invisible-site-nav__item"><a href="#" class="invisible-site-nav__link">ЗАПИСАТСЯ</a></li>
-        <li class="invisible-site-nav__item"><a href="#" class="invisible-site-nav__link">ЗАНЯТИЯ</a></li>
+        <li class="invisible-site-nav__item"><a href="#index-section-2" class="invisible-site-nav__link">О НАС</a></li>
+        <li class="invisible-site-nav__item"><a href="#index-section-3" class="invisible-site-nav__link">ЗАПИСАТСЯ</a></li>
+        <li class="invisible-site-nav__item"><a href="#index-section-4" class="invisible-site-nav__link">ОТВЕТЫ НА ВОПРОСЫ</a></li>
     </div>
     <header class="site-header container">
         <div class="site-header__box">
@@ -26,9 +26,9 @@
                 </a>
             </div>
             <ul class="site-nav">
-                <li class="site-nav__item"><a href="#" class="site-nav__link">О НАС</a></li>
-                <li class="site-nav__item"><a href="#" class="site-nav__link">ЗАПИСАТСЯ</a></li>
-                <li class="site-nav__item"><a href="#" class="site-nav__link">ЗАНЯТИЯ</a></li>
+                <li class="site-nav__item"><a href="#index-section-2" class="site-nav__link">О НАС</a></li>
+                <li class="site-nav__item"><a href="#index-section-3" class="site-nav__link">ЗАПИСАТСЯ</a></li>
+                <li class="site-nav__item"><a href="#index-section-4" class="site-nav__link">ОТВЕТЫ НА ВОПРОСЫ</a></li>
             </ul>
         </div>
         <button class="gamburger">

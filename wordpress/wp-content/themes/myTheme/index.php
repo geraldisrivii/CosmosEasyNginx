@@ -18,11 +18,11 @@
                     <h2 class="header-box__main-title"><?= CFS()->get('section_1_main_title'); ?></h2>
                 </div>
                 <p class="index-section-1-content__text"><?= CFS()->get('section_1_text'); ?></p>
-                <button aria-label="<?= CFS()->get('section_1_button'); ?>" class="button"><?= CFS()->get('section_1_button'); ?></button>
+                <a href="#index-section-3" aria-label="<?= CFS()->get('section_1_button'); ?>" class="button"><?= CFS()->get('section_1_button'); ?></a>
             </div>
         </div>
     </section>
-    <section class="index-section-2 container">
+    <section id="index-section-2" class="index-section-2 container">
         <div class="index-section-2__header-box header-box">
             <p class="header-box__title"><?= CFS()->get('section_2_sub_title'); ?></p>
             <h2 class="header-box__main-title"><?= CFS()->get('section_2_main_title'); ?></h2>
@@ -46,7 +46,7 @@
         </div>
         <div class="index-section-2__line"></div>
     </section>
-    <section style="background:url(<?= CFS()->get('section_3_background'); ?>) center/cover no-repeat;"
+    <section id="index-section-3" style="background:url(<?= CFS()->get('section_3_background'); ?>) center/cover no-repeat;"
         class="index-section-3 container">
         <div class="header-box index-section-3__header-box">
             <p class="header-box__title"><?= CFS()->get('section_3_sub_title'); ?></p>
@@ -69,7 +69,7 @@
 
         <div class="index-section-3__line"></div>
     </section>
-    <section class="index-section-4 container">
+    <section id="index-section-4" class="index-section-4 container">
         <div class="index-section-4-header-image-box">
             <div class="header-box index-section-4-header-image-box__header-box">
                 <p class="header-box__title"><?= CFS()->get('section_4_sub_title'); ?></p>
